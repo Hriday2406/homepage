@@ -1,2 +1,2 @@
-# Template Repository
-Template Repository for using Webpack
+# Homepage
+A collection of all of my projects.
