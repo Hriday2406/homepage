@@ -145,10 +145,11 @@ table {
   transform: scale(1.5);
 }
 
-body {
+#root {
   font-family: "Roboto", sans-serif;
   color: var(--text-color);
   background-color: var(--bg-color);
+  padding-bottom: 100px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -413,6 +414,9 @@ footer {
 }
 
 @media screen and (max-width: 1080px) {
+  #root {
+    padding-bottom: 50px;
+  }
   header {
     flex-direction: column;
   }
@@ -444,8 +448,9 @@ footer {
 }
 
 @media screen and (max-width: 770px) {
-  body {
+  #root {
     background-size: 100% 50%;
+    padding-bottom: 0px;
   }
   .h-left img {
     width: 200px;
