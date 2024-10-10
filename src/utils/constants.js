@@ -5,6 +5,7 @@ export const PROJECTDATA = [
     desc: "Test your anime knowledge and memory skills with an engaging Anime Memory Game.",
     website: "https://anime-memory-game-hriday.vercel.app/",
     code: "https://github.com/Hriday2406/memory-game",
+    tech: ["React", "Tailwind", "Git"],
   },
   {
     title: "CV Builder",
@@ -12,6 +13,7 @@ export const PROJECTDATA = [
     desc: "Create a professional CV effortlessly with online CV builder.",
     website: "https://cv-builder-three.vercel.app/",
     code: "https://github.com/Hriday2406/CV-Builder",
+    tech: ["React", "Git"],
   },
   {
     title: "To-Do List",
@@ -19,6 +21,7 @@ export const PROJECTDATA = [
     desc: "A simple and intuitive web app to create, organize, and manage your daily tasks.",
     website: "https://hriday2406.github.io/to-do-list/",
     code: "https://github.com/Hriday2406/to-do-list",
+    tech: ["HTML5", "CSS3", "Js", "Git"],
   },
   {
     title: "Mausam",
@@ -26,6 +29,7 @@ export const PROJECTDATA = [
     desc: "Get real-time weather updates with our Weather App.",
     website: "https://hriday2406.github.io/mausam/",
     code: "https://github.com/Hriday2406/mausam",
+    tech: ["HTML5", "CSS3", "Js", "Git"],
   },
   {
     title: "Calculator",
@@ -33,6 +37,7 @@ export const PROJECTDATA = [
     desc: "A fast, elegant and easy-to-use calculator for all your calculation needs.",
     website: "https://hriday2406.github.io/Calculator/",
     code: "https://github.com/Hriday2406/Calculator",
+    tech: ["HTML5", "CSS3", "Js", "Git"],
   },
   {
     title: "Tic Tac Toe",
@@ -40,6 +45,7 @@ export const PROJECTDATA = [
     desc: "Play the classic Tic-Tac-Toe game online! Challenge a friend and see whose better.",
     website: "https://hriday2406.github.io/tic-tac-toe/",
     code: "https://github.com/Hriday2406/tic-tac-toe",
+    tech: ["HTML5", "CSS3", "Js", "Git"],
   },
   {
     title: "Etch-a-Sketch",
@@ -47,6 +53,7 @@ export const PROJECTDATA = [
     desc: "Experience the nostalgia of the classic Etch-a-Sketch with our web-based drawing app.",
     website: "https://hriday2406.github.io/Etch-a-Sketch/",
     code: "https://github.com/Hriday2406/Etch-a-Sketch",
+    tech: ["HTML5", "CSS3", "Js", "Git"],
   },
   {
     title: "Admin Panel Frontend",
@@ -54,5 +61,6 @@ export const PROJECTDATA = [
     desc: "An Admin panel offers an interface for managing website content, user profiles, and settings.",
     website: "https://hriday2406.github.io/admin-dashboard/",
     code: "https://github.com/Hriday2406/admin-dashboard",
+    tech: ["HTML5", "CSS3", "Js", "Git"],
   },
 ];

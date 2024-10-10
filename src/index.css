@@ -299,8 +299,19 @@ main {
   border-radius: 25px 25px 0px 0px;
 }
 
+.card-bottom {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  flex-grow: 1;
+}
+
 .text {
   padding: 1em;
+  height: 53%;
+  display: flex;
+  flex-direction: column;
 }
 
 .first-line {
