@@ -1,7 +1,7 @@
 export const PROJECTDATA = [
   {
     title: "Anime Memory Game",
-    img: "./projects/amg.png",
+    img: "/projects/amg.png",
     desc: "Test your anime knowledge and memory skills with an engaging Anime Memory Game.",
     website: "https://anime-memory-game-hriday.vercel.app/",
     code: "https://github.com/Hriday2406/memory-game",
@@ -9,7 +9,7 @@ export const PROJECTDATA = [
   },
   {
     title: "CV Builder",
-    img: "./projects/cv.png",
+    img: "/projects/cv.png",
     desc: "Create a professional CV effortlessly with online CV builder.",
     website: "https://cv-builder-three.vercel.app/",
     code: "https://github.com/Hriday2406/CV-Builder",
@@ -17,7 +17,7 @@ export const PROJECTDATA = [
   },
   {
     title: "To-Do List",
-    img: "./projects/todo.png",
+    img: "/projects/todo.png",
     desc: "A simple and intuitive web app to create, organize, and manage your daily tasks.",
     website: "https://hriday2406.github.io/to-do-list/",
     code: "https://github.com/Hriday2406/to-do-list",
@@ -25,7 +25,7 @@ export const PROJECTDATA = [
   },
   {
     title: "Mausam",
-    img: "./projects/mausam.png",
+    img: "/projects/mausam.png",
     desc: "Get real-time weather updates with our Weather App.",
     website: "https://hriday2406.github.io/mausam/",
     code: "https://github.com/Hriday2406/mausam",
@@ -33,7 +33,7 @@ export const PROJECTDATA = [
   },
   {
     title: "Calculator",
-    img: "./projects/calc.png",
+    img: "/projects/calc.png",
     desc: "A fast, elegant and easy-to-use calculator for all your calculation needs.",
     website: "https://hriday2406.github.io/Calculator/",
     code: "https://github.com/Hriday2406/Calculator",
@@ -41,7 +41,7 @@ export const PROJECTDATA = [
   },
   {
     title: "Tic Tac Toe",
-    img: "./projects/tictactoe.png",
+    img: "/projects/tictactoe.png",
     desc: "Play the classic Tic-Tac-Toe game online! Challenge a friend and see whose better.",
     website: "https://hriday2406.github.io/tic-tac-toe/",
     code: "https://github.com/Hriday2406/tic-tac-toe",
@@ -49,7 +49,7 @@ export const PROJECTDATA = [
   },
   {
     title: "Etch-a-Sketch",
-    img: "./projects/etch.png",
+    img: "/projects/etch.png",
     desc: "Experience the nostalgia of the classic Etch-a-Sketch with our web-based drawing app.",
     website: "https://hriday2406.github.io/Etch-a-Sketch/",
     code: "https://github.com/Hriday2406/Etch-a-Sketch",
@@ -57,7 +57,7 @@ export const PROJECTDATA = [
   },
   {
     title: "Admin Panel Frontend",
-    img: "./projects/admin.png",
+    img: "/projects/admin.png",
     desc: "An Admin panel offers an interface for managing website content, user profiles, and settings.",
     website: "https://hriday2406.github.io/admin-dashboard/",
     code: "https://github.com/Hriday2406/admin-dashboard",

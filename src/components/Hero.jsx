@@ -14,7 +14,7 @@ export default function Hero() {
   return (
     <header>
       <div className="h-left">
-        <img id="img1" src="./dp.png" alt="DP" ref={dpRef} />
+        <img id="img1" src="/dp.png" alt="DP" ref={dpRef} />
       </div>
       <div className="h-right">
         <h1>About Me</h1>
