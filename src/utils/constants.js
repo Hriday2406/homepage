@@ -1,5 +1,13 @@
 export const PROJECTDATA = [
   {
+    title: "Fruits Lelo",
+    img: "/projects/fruits.png",
+    desc: "A simple e-Commerce website with beautiful animations and micro-interations.",
+    website: "https://fruits-lelo.vercel.app/",
+    code: "https://github.com/Hriday2406/fruits-lelo",
+    tech: ["React", "Tailwind", "Git"],
+  },
+  {
     title: "Anime Memory Game",
     img: "/projects/amg.png",
     desc: "Test your anime knowledge and memory skills with an engaging Anime Memory Game.",
@@ -53,14 +61,6 @@ export const PROJECTDATA = [
     desc: "Experience the nostalgia of the classic Etch-a-Sketch with our web-based drawing app.",
     website: "https://hriday2406.github.io/Etch-a-Sketch/",
     code: "https://github.com/Hriday2406/Etch-a-Sketch",
-    tech: ["HTML5", "CSS3", "Js", "Git"],
-  },
-  {
-    title: "Admin Panel Frontend",
-    img: "/projects/admin.png",
-    desc: "An Admin panel offers an interface for managing website content, user profiles, and settings.",
-    website: "https://hriday2406.github.io/admin-dashboard/",
-    code: "https://github.com/Hriday2406/admin-dashboard",
     tech: ["HTML5", "CSS3", "Js", "Git"],
   },
 ];
