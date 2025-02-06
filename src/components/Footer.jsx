@@ -59,7 +59,7 @@ export default function Footer() {
           <img
             className="img2"
             id="img2"
-            src="/dp2.jpg"
+            src="/dp2.webp"
             alt="My Image"
             ref={dp2Ref}
           />

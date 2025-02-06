@@ -145,6 +145,11 @@ table {
   transform: scale(1.5);
 }
 
+.manual-svg {
+  height: 1.5rem;
+  width: 1.5rem;
+}
+
 #root {
   font-family: "Roboto", sans-serif;
   color: var(--text-color);
