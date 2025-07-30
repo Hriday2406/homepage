@@ -26,10 +26,10 @@ export default function Footer() {
             Please get in touch if you think our work could be mutually
             beneficial!
           </p>
-          <div className="phone">
+          {/* <div className="phone">
             <Icon path={mdiPhone} size={1} className="svg" />
             <p>+91 9958026543</p>
-          </div>
+          </div> */}
           <div className="email">
             <Icon path={mdiEmail} size={1} className="svg" />
             <p>hriday2602@gmail.com</p>
