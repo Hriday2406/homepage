@@ -1,4 +1,5 @@
 import { useEffect, useRef } from "react";
+import PropTypes from "prop-types";
 import Icon from "@mdi/react";
 import {
   mdiGithub,
@@ -81,6 +82,7 @@ function TechTags({ tag }) {
       break;
     }
     default: {
+      tagIcon = tag;
     }
   }
   return (
@@ -89,6 +91,10 @@ function TechTags({ tag }) {
     </Tooltip>
   );
 }
+
+TechTags.propTypes = {
+  tag: PropTypes.string.isRequired,
+};
 
 export default function Projects() {
   const cardsRef = useRef([]);

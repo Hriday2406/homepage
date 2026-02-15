@@ -53,7 +53,10 @@ export default function Hero() {
             </a>
           </Tooltip>
           <Tooltip title="My Resume" placement="topLeft">
-            <a href="https://bit.ly/hriday2406-resume" target="_blank">
+            <a
+              href="https://drive.google.com/file/d/144NiEE5Pb9dqhYSF3_rW1v0gRJzwYZmu/view"
+              target="_blank"
+            >
               <Icon path={mdiFileAccount} size={1.5} className="svg" />
             </a>
           </Tooltip>
