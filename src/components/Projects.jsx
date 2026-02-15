@@ -81,6 +81,7 @@ function TechTags({ tag }) {
       break;
     }
     default: {
+      tagIcon = tag;
     }
   }
   return (

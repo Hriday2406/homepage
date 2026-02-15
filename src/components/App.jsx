@@ -16,7 +16,7 @@ function HomePage() {
 
 function App() {
   return (
-    <BrowserRouter basename="/homepage">
+    <BrowserRouter>
       <Routes>
         <Route path="/" element={<HomePage />} />
         <Route path="/resume" element={<Resume />} />

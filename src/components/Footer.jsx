@@ -1,12 +1,6 @@
 import { useEffect, useRef } from "react";
 import Icon from "@mdi/react";
-import {
-  mdiPhone,
-  mdiEmail,
-  mdiGithub,
-  mdiLinkedin,
-  mdiFileAccount,
-} from "@mdi/js";
+import { mdiEmail, mdiGithub, mdiLinkedin, mdiFileAccount } from "@mdi/js";
 import { Tooltip } from "antd";
 import { observer } from "../utils/utils";
 
@@ -26,10 +20,6 @@ export default function Footer() {
             Please get in touch if you think our work could be mutually
             beneficial!
           </p>
-          {/* <div className="phone">
-            <Icon path={mdiPhone} size={1} className="svg" />
-            <p>+91 9958026543</p>
-          </div> */}
           <div className="email">
             <Icon path={mdiEmail} size={1} className="svg" />
             <p>hriday2602@gmail.com</p>
